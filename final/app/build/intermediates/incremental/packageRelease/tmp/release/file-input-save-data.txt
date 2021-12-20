@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Wed May 26 06:00:15 CST 2021
+3.set=DEX
+3.path=classes.dex
+2.base=E\:\\OCR_test\\mlkit-android-master\\vision\\final\\app\\build\\intermediates\\merged_assets\\release\\out
+0.path=Please_walk_on_the_grass.jpg
+5.base=E\:\\OCR_test\\mlkit-android-master\\vision\\final\\app\\build\\intermediates\\merged_assets\\release\\out
+6.baseType=DIRECTORY
+0.base=E\:\\OCR_test\\mlkit-android-master\\vision\\final\\app\\build\\intermediates\\merged_assets\\release\\out
+3.base=E\:\\OCR_test\\mlkit-android-master\\vision\\final\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+6.base=E\:\\OCR_test\\mlkit-android-master\\vision\\final\\app\\build\\intermediates\\merged_assets\\release\\out
+5.path=3.jpg
+3.baseType=DIRECTORY
+1.path=grace_hopper.jpg
+4.set=ASSET
+0.baseType=DIRECTORY
+0.set=ASSET
+5.baseType=DIRECTORY
+6.set=ASSET
+4.path=4.jpg
+count=7
+5.set=ASSET
+1.set=ASSET
+2.path=z.jpg
+2.baseType=DIRECTORY
+2.set=ASSET
+1.baseType=DIRECTORY
+4.base=E\:\\OCR_test\\mlkit-android-master\\vision\\final\\app\\build\\intermediates\\merged_assets\\release\\out
+1.base=E\:\\OCR_test\\mlkit-android-master\\vision\\final\\app\\build\\intermediates\\merged_assets\\release\\out
+4.baseType=DIRECTORY
+6.path=2.jpg
